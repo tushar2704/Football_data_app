@@ -7,3 +7,4 @@ gdown
 pybase64
 matplotlib
 seaborn
+lxml
