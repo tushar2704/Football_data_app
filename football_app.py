@@ -9,7 +9,7 @@ import numpy as np
 import seaborn as sns
 
 # Application title and body
-st.set_page_config(page_title="Supermarket Sales Dashboard",
+st.set_page_config(page_title="NFL Players Stats",
                    page_icon=":🏈:",
                    layout='wide')
 # Title
