@@ -19,19 +19,15 @@ Football data Dashboard[Render]: ()
 ## Screenshot
 ![Football Screenshot](https://user-images.githubusercontent.com/66141195/233868333-cf15cca4-f4e6-4fd2-a861-3475ffcb3f2b.png)
 
-
-
-
-
 ## Author
 
 - <b>Tushar Aggarwal</b>
 - <b>LinkedIn</b>: https://www.linkedin.com/in/tusharaggarwalinseec/
-- <b>Website</b>: https://cognitoai.in/
+- <b>Website</b>: https://www.tushar-aggarwal.com/
 - <b>Kaggle</b>: https://www.kaggle.com/tusharaggarwal27
 
 
 
 ## Feedback
 
-If you have any feedback, please reach out to me at tushar.inseec@gmail.com
+If you have any feedback, please reach out to me at tushar.inseec@gmail.com or info@tushar-aggarwal.com
